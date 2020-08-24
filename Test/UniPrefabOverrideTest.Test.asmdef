@@ -1,0 +1,18 @@
+{
+    "name": "UniPrefabOverrideTest.Test",
+    "references": [
+        "GUID:ce92357acbaf0a44d9d5eb1e56c06078",
+        "GUID:f8afb69b74ae11b449f20d8e735ddcc7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
